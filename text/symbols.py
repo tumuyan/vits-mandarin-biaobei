@@ -7,7 +7,7 @@ _pad        = '_'
 _punctuation = ';:,.!?¡¿—…"«»“” '
 
 _punctuation_zh = '；：，。！？-“”《》、（）ＢＰ…— '
-_letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
+_letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ'
 
 _numbers = '123450'
 _others = ''
