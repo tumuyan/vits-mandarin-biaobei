@@ -29,6 +29,7 @@ def text_to_sequence(text, cleaner_names, ):
   '''
   sequence = []
   print(text)
+  print("cleaner_names：")
   print(cleaner_names)
   clean_text = _clean_text(text, cleaner_names)
   for symbol in clean_text:
