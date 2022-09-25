@@ -28,7 +28,7 @@ def text_to_sequence(text, cleaner_names, ):
       List of integers corresponding to the symbols in the text
   '''
   sequence = []
-  print(text)
+  print("text: " + text)
   print("cleaner_names：")
   print(cleaner_names)
   clean_text = _clean_text(text, cleaner_names)
