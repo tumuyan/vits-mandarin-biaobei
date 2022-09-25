@@ -15,10 +15,8 @@ else:
   _symbol_to_id = {s: i for i, s in enumerate(symbols)}
   _id_to_symbol = {i: s for i, s in enumerate(symbols)}
 
-print("_symbol_to_id" )
-print(_symbol_to_id)
 
-print("_id_to_symbol")
+print(_symbol_to_id)
 print(_id_to_symbol)
 
 def text_to_sequence(text, cleaner_names, ):
