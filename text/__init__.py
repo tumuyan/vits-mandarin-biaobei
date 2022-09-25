@@ -16,6 +16,7 @@ else:
   _id_to_symbol = {i: s for i, s in enumerate(symbols)}
 
 
+print("_symbol_to_id")
 print(_symbol_to_id)
 print(_id_to_symbol)
 
